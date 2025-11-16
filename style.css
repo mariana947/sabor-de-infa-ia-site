@@ -1,0 +1,31 @@
+body {
+        margin: 0;
+            font-family: Arial, sans-serif;
+                background: #fefefe;
+                }
+
+                .hero {
+                    height: 100vh;
+                        background: url('FOTO-DA-SUA-CAPA.png') center/cover no-repeat;
+                            display: flex;
+                                flex-direction: column;
+                                    align-items: center;
+                                        justify-content: center;
+                                            text-align: center;
+                                            }
+
+                                            .hero h1 {
+                                                font-size: 3rem;
+                                                    color: #d4a017;
+                                                        text-shadow: 0 3px 6px rgba(0,0,0,0.2);
+                                                        }
+
+                                                        .hero p {
+                                                            font-size: 1.2rem;
+                                                                color: #555;
+                                                                }
+
+                                                                .logo {
+                                                                    width: 150px;
+                                                                    }
+}
